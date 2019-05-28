@@ -1,0 +1,91 @@
+body, html {
+  height: 100%;
+  display: grid;
+  background-color: rgb(230, 236, 240);
+  padding: 0;
+  margin: 0;
+  color: #111;
+  font-size: 1.2em;
+}
+
+body, input {
+  font-family: Circular, Helvetica, Arial, sans-serif;;
+}
+
+section {
+  margin: auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+p {
+  margin: 2em 0;
+  line-height: 1.5;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+#logo {
+  background: url(indy.svg) no-repeat center left;
+  background-size: 100%;
+  margin-right: -0.1em;
+  color: transparent;
+  font-size: 3em;
+  font-variant: small-caps;
+}
+
+fieldset {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  border: 0;
+}
+
+input {
+  font-size: .8em;
+  padding: .5em;
+}
+
+input[type=email] {
+  border: 2px solid #4E5391;
+  min-width: 15em;
+  border-radius: .2em 0 0 .2em;
+}
+input[type=submit] {
+  color: white;
+  font-weight: bold;
+  background: #4E5391 url(slack.svg) no-repeat .5em center;
+  text-indent: 1.8em;
+  background-size: 1.4em;
+  border: 0;
+  border-radius: 0 .2em .2em 0;
+}
+
+input[type=submit]:hover {
+  background-color: #4E5391CC;
+}
+
+[disabled] {
+  opacity: 0.3;
+}
+
+[disabled] input[type=submit]:hover {
+  background-color: #4E5391;
+}
+
+#join {
+  position: relative;
+  margin-bottom: 2em;
+}
+
+#success {
+  position: absolute;
+  top: -1em;
+  margin: 0;
+  padding: 20px;
+  background: #4E5391EE;
+  color: white;
+  border-radius: .5em;
+}

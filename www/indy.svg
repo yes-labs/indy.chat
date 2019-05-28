@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="417px" height="129px" viewBox="0 0 417 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>INDY</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Y_A4" transform="translate(-690.000000, -256.000000)">
+            <g id="INDY" transform="translate(690.000000, 256.000000)">
+                <g id="Group" transform="translate(297.000000, 0.000000)">
+                    <polygon id="Fill-2" fill="#D5344D" points="83.1904996 0 120 0 76.7801832 79 44 79"></polygon>
+                    <polygon id="Fill-3" fill="#4E5391" points="43.2196021 79 0 0 36.8092857 0 76 79"></polygon>
+                    <polygon id="Fill-4" fill="#E8883C" points="44 129 77 129 77 79 44 79"></polygon>
+                </g>
+                <polygon id="Fill-10" fill="#4E5391" points="0 129 33 129 33 0 0 0"></polygon>
+                <polygon id="Fill-6" fill="#1BA0CE" points="160 112 160 0 127 0 127 65.0707092"></polygon>
+                <polygon id="Fill-7" fill="#1BA0CE" points="55 17 55 129 88 129 88 64.0930219"></polygon>
+                <polygon id="Fill-8" fill="#4E5391" points="55 17.0670915 134.347421 129 160 129 160 111.565205 126.862178 64.8180986 126.862178 64.8680968 80.8780356 0 55 0"></polygon>
+                <polygon id="Fill-5" fill="#D5344D" points="182 97 216 97 216 32.01084 215.999755 32.01084 215.999755 32 182 32"></polygon>
+                <path d="M235.351982,0 L182,0 L182,32.0643425 L216.401613,32.0643425 L216.443765,32.0752837 L219.985042,32.0752837 L219.995952,32.0752837 L235.351982,32.0752837 C253.323429,32.0752837 266.240337,45.0539981 266.240337,64.8923289 C266.240337,64.9286337 266.238106,64.9636952 266.238106,65 L298.997768,65 C298.997768,64.9639439 299,64.9283851 299,64.8923289 C299,28.1822164 271.481586,0 235.351982,0" id="Fill-6" fill="#4E5391"></path>
+                <path d="M266.239712,65 C266.1926,84.5378893 253.292059,97.3133245 235.353,97.3133245 L216.44591,97.3133245 L216.44591,97.2750034 L182,97.2750034 L182,129 L235.353,129 C271.447586,129 298.945697,101.213238 299,65 L266.239712,65 Z" id="Fill-8" fill="#1E988B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
