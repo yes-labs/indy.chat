@@ -28,19 +28,31 @@ h1 {
 }
 
 #logo {
-  background: url(indy.svg) no-repeat center left;
+  background: url(indy.svg) no-repeat bottom left;
   background-size: 100%;
-  margin-right: -0.1em;
+  padding: 0;
+  margin: 0 -0.1em 0 0;
   color: transparent;
   font-size: 3em;
   font-variant: small-caps;
+  position: relative;
+  top: -0.2em;
 }
 
-fieldset {
+#fields {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   margin: 0 auto;
   border: 0;
+  padding: 0;
+}
+
+#existing {
+  font-size: .5em;
+  text-align: center;
+  text-indent: 22em;
+  margin: .5em;
 }
 
 input {
