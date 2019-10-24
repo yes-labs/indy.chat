@@ -88,8 +88,8 @@ input[type=submit]:hover {
 }
 
 #join {
-  position: relative;
   margin-bottom: 2em;
+  position: relative;
 }
 
 #success {
