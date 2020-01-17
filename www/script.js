@@ -3,7 +3,7 @@
 async function joinSubmitted(e) {
   e.preventDefault();
   const emailInput = document.querySelector('input[type=email]');
-  const email = email.value;
+  const email = emailInput.value;
   const reply = await joinSlack(email);
   if (reply.ok) {
     const fieldset = document.querySelector('#join fieldset');
