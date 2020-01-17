@@ -14,6 +14,7 @@ const SLACK_TOKEN =  process.env.SLACK_TOKEN;
 const SLACK_ORG = 'indyref';
 
 async function invite(email) {
+  console.log(`Inviting ${email}`)
   const data = {email, token: SLACK_TOKEN, resend: true};
   const url = `https://${SLACK_ORG}.slack.com/api/users.admin.invite`;
   const res = await fetch(url, {
